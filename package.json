@@ -1,0 +1,14 @@
+{
+  "name": "crisptagassignment",
+  "version": "1.0.0",
+  "description": "redirect to google.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.3.0"
+  }
+}
